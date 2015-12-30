@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[All your Furniture]]></title>
         <description><![CDATA[All your Furniture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.cymfurniture.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 19:04:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 19:05:00 GMT</lastBuildDate>
+        <atom:link href="http://www.cymfurniture.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc9226a5-805f-420f-82e2-6829c5f82912.jpg">]]></description>
+            <link>http://www.cymfurniture.com/f2e05e3b-e519-465a-8e82-b0a9aba3f50f/index.html</link>
+            <guid isPermaLink="false">f2e05e3b-e519-465a-8e82-b0a9aba3f50f</guid>
+            <pubDate>Wed, 30 Dec 2015 19:04:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cancha.com --- portada]]></title>
             <description><![CDATA[<article><h1>cancha.com --- portada</h1><p>Cleanthony Early, jugador de los Knicks de NY, recibe balazo en una pierna tras ser asaltado afuera de un bar nocturno.</p></article>]]></description>
