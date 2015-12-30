@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[All your Furniture]]></title>
+        <description><![CDATA[All your Furniture]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 19:04:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cancha.com --- portada]]></title>
+            <description><![CDATA[<article><h1>cancha.com --- portada</h1><p>Cleanthony Early, jugador de los Knicks de NY, recibe balazo en una pierna tras ser asaltado afuera de un bar nocturno.</p></article>]]></description>
+            <link>http://www.cancha.com/defaultn.htm</link>
+            <guid isPermaLink="false">f432a8e5-b1df-4062-b29b-86628508491d</guid>
+            <pubDate>Wed, 30 Dec 2015 19:04:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
